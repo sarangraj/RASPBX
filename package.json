@@ -1,0 +1,33 @@
+{
+  "name": "raspbx",
+  "version": "1.0.0",
+  "description": "RASPBX Admin Panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarangraj/RASPBX.git"
+  },
+  "keywords": [
+    "RASPBX",
+    "Admin",
+    "Panel",
+    "Raspberry",
+    "Pie",
+    "Asterisk",
+    "Sarang",
+    "GEC",
+    "Modasa"
+  ],
+  "author": "'Sarang <'sarangrajvansh@live.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarangraj/RASPBX/issues"
+  },
+  "homepage": "https://github.com/sarangraj/RASPBX#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
